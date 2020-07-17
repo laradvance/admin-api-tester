@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/api-tester",
+    "name": "laradvance/admin-api-tester",
     "description": "Api tester for laravel",
     "type": "library",
     "keywords": ["laravel-admin", "api", "tester"],
-    "homepage": "https://github.com/laravel-admin-extensions/api-tester",
+    "homepage": "https://github.com/laradvance/admin-api-tester",
     "license": "MIT",
     "authors": [
         {
